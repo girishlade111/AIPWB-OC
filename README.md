@@ -1,5 +1,7 @@
 # LadeStack Build Documentation
 
+Built by [Girish Lade](https://ladestack.in) — https://ladestack.in
+
 This repository contains the **complete product specification and AI build prompts** for LadeStack Build — an open-core, AI-powered website builder.
 
 > **Looking for the product overview?** See [`00-README.md`](./00-README.md)
